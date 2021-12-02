@@ -153,3 +153,7 @@ Emoji:
 [emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/)
     Markup : Code appears between colons :EMOJICODE:
 :mask:
+
+## Haolong Huai ##
+    Friend : Haolong Huai  649529444
+    Chen Yang is my friend.
