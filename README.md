@@ -157,3 +157,6 @@ Emoji:
 ## Haolong Huai ##
     Friend : Haolong Huai  649529444
     Chen Yang is my friend.
+## Haitao Liu ##
+    Friend : Haitao Liu  649529455
+    Chen Yang is my friend.
